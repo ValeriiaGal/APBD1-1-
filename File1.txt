@@ -1,2 +1,2 @@
-“Alice Brown, 
+Alice Brown,
 alice.brown@mail.com
